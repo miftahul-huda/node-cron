@@ -1,0 +1,3 @@
+[
+    { "id" : "sendEmail", "method" : "http", "url" : "http://127.0.0.1:8282/emails/sendall", "schedule" : "*/10 * * * * *" }
+]
